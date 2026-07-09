@@ -13,9 +13,9 @@ public class Exercicio01 {
         String nome = entrada.nextLine();
 
         System.out.println("Digite o seu ano de nascimento: ");
-        int ano_nasc = ano - entrada.nextInt();
+        int idade = ano - entrada.nextInt();
 
-        System.out.println("Ola " + nome + " voce tem " + ano_nasc + " anos");
+        System.out.println("Ola " + nome + " voce tem " + idade + " anos");
         entrada.close();
     }
 }
