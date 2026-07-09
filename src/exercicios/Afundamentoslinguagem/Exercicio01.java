@@ -1,8 +1,6 @@
-package exercicios.modulo01_fundamentos;
+package exercicios.Afundamentoslinguagem;
 
 import java.time.LocalDate;
-import java.time.chrono.ChronoLocalDate;
-import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
 public class Exercicio01 {
